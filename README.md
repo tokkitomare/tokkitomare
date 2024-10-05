@@ -8,7 +8,7 @@
 <p>
   I'm Vitor! A passionate student from Brazil.
 
-  - 🎈 I’m currently studying Systems Analysis and Development (Análise e Desenvolvimento de Sistemas - ADS) at Instituto Federal de Pernambuco (IFPE) - Jaboatão dos Guararapes.
+  - 🎈 I’m currently studying Systems Analysis and Development (Análise e Desenvolvimento de Sistemas - ADS) at Instituto Federal de Pernambuco (IFPE).
 
   - 🔔 Someday I plan to work with machine learning and AI or game development.
 </p>
