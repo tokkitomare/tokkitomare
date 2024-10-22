@@ -28,8 +28,8 @@
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/thechinaoverheaven)
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=thechinaoverheaven&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thechinaoverheaven&langs_count=8&theme=radical&layout=compact)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=tokkitomare&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokkitomare&langs_count=8&theme=radical&layout=compact)
 
 <!-- Portfolio -->
 ## Portfolio:
