@@ -17,7 +17,7 @@
 <details>
   <summary>💎 More about me</summary>
 
-  - 💬 I am 15 years old, currently living in Brazil. I have B1-B2 level in English and have started studying in february 2024 with Python with the [Curso em Video](https://www.youtube.com/c/CursoemV%C3%ADdeo) channel, I then tried JavaScript and found it boring, so I switched to Rust based on a recommendation. I enjoyed programming in a low-level language, which is why I also started studying C++.
+  - 💬 I am 16 years old, currently living in Brazil. I have B1-B2 level in English and have started studying in february 2024 with Python with the [Curso em Video](https://www.youtube.com/c/CursoemV%C3%ADdeo) channel, I then tried JavaScript and found it boring, so I switched to Rust based on a recommendation. I enjoyed programming in a low-level language, which is why I also started studying C++.
 
   - ⚡ I enjoy games, math, physics, some animes/mangas, and solving the Rubik's cube and its variations. My favorite game is Hollow Knight and my favorite anime/manga is JoJo.
 </details>
