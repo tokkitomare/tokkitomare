@@ -1,7 +1,6 @@
 <!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">What's up? 🦐</h1></summary>
+<div align="center">
+    <h1>What's up? 🦐</h1>
 </div>
 
 <!-- Presentation -->
@@ -10,7 +9,7 @@
 
   - 🎈 I’m currently studying Systems Analysis and Development (Análise e Desenvolvimento de Sistemas - ADS) at Instituto Federal de Pernambuco (IFPE).
 
-  - 🔔 Someday I plan to work with machine learning and AI or game development.
+  - 🔔 Someday I plan to work with machine learning and AI or systems development.
 </p>
 
 <!-- Dropdown -->
@@ -23,9 +22,9 @@
 </details>
 
 <!-- Links -->
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1255504709226336266)
+[![Rustocracia](https://img.shields.io/badge/Rustocracia-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Xs6bYsqKej)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tuskoverheavenact5?igsh=MWp6dmo2ZmZxbTBqNw==)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/thechinaoverheaven)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/vitu_dev/)
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=tokkitomare&show_icons=true&theme=radical)
@@ -33,8 +32,8 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Exercices made in Rust language](https://github.com/TheChinaOverHeaven/Rust-exercices)
-- [First site](https://github.com/TheChinaOverHeaven/Funny-site)
+- [Ferriscratico Bot powered with poise](https://github.com/tokkitomare/ferriscratico)
+- [Ifhany Bot powered with poise (collaboration)](https://github.com/Fhany-Server/ifhany)
 
 <!-- GIF -->
 <p align="left">
@@ -51,17 +50,20 @@
   </div>
   
   <!-- Skills: Tools & Frameworks -->
+  <!-- <img aling="center" alt="Docker" height="30" width="40" src=""> -->
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
+    <img align="center" alt="Arch Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg">
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Chris-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+    <a href="https://crates.io/crates/poise">
+      <img align="center" alt="Poise" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
+    </a>
   </div>
   
   <!-- Skills: Libraries -->
   <!-- <div style="flex-basis: 48%;">
     <h3>Libraries</h3>
-    <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-    <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    <img align="center" alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    <img align="center" alt="Scikit-learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+    
   </div> -->
