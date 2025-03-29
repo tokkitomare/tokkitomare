@@ -4,7 +4,7 @@
 </div>
 
 <!-- Presentation -->
-# I'm Vitor, i study on IFPE.
+# I'm Vitor, I study on IFPE.
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=tokkitomare&show_icons=true&theme=radical)
