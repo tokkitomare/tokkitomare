@@ -12,6 +12,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+- [Tokist](https://github.com/tokkitomare/tokist)
 - [Ferriscratico Bot powered with poise](https://github.com/tokkitomare/ferriscratico)
 - [Ifhany Bot powered with poise (collaboration)](https://github.com/Fhany-Server/ifhany)
 
